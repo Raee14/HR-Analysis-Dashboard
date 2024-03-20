@@ -1,5 +1,5 @@
 # HR-Analysis-Dashboard
-Designed an HR Analysis dashboard by using Excel for AtliQ Technologies. To understand employee attendance and preferences for different working modes.
+Designed an HR Analysis dashboard by using PowerBI and Excel for AtliQ Technologies. To understand employee attendance and preferences for different working modes.
 
 ## Overview
 
