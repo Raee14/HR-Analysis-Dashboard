@@ -16,5 +16,7 @@ This repository contains the data analysis project conducted for AtliQ Technolog
 - **Percentage Analysis**: Calculation and visualization of the percentage of employees coming to the office versus those working remotely.
 - **Preference Analysis**: Insights into employee preferences for different working modes, facilitating HR decision-making.
 
+## Guided By
+-** Guided By**: [CodeBasics](https://youtu.be/JC66t9eM10s?si=_wyBC-Z_1q04nYBZ)
    ```bash
    git clone https://github.com/your_username/atliq-hr-analysis.git
